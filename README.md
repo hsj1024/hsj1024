@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?text=seojeong!)
+![header](https://capsule-render.vercel.app/api?text=seojeong)
 <!--
 **hsj1024/hsj1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
