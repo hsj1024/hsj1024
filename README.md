@@ -1,6 +1,8 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?text=seojeong)
 <br></br>
+![hsj1024's github stats](https://github-readme-stats.vercel.app/api?username=hsj1024&show_icons=true)
+[![hsj1024's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hsj1024&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hsj1024)
 [![trophy](https://github-profile-trophy.vercel.app/?username=hsj1024)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
