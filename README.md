@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Full-Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Engineer&fontSize=36&fontAlignY=40&desc=Aspiring%20DevOps%20Engineer%20%7C%20Ready%20to%20Build%2C%20Learn%2C%20and%20Grow&descAlignY=65&descAlign=50&fontColor=ffffff)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Full-Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Engineer&fontSize=36&fontAlignY=40&desc=Aspiring%20DevOps%20Engineer%20%7C%20Ready%20to%20Build%2C%20Learn%2C%20and%20Grow&descAlignY=65&descAlign=50&fontColor=ffffff)
 
 ## 👋 Welcome!  
 > 💻 Full-Stack Developer & Infrastructure Engineer 
