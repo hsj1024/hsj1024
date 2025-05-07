@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Full-Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Engineer&fontSize=36&fontAlignY=40&desc=Aspiring%20DevOps%20Engineer%20%7C%20Ready%20to%20Build%2C%20Learn%2C%20and%20Grow&descAlignY=65&descAlign=50&fontColor=ffffff)
 
 ## 👋 Welcome!  
-> 💻 Full-Stack Developer & Infrastructure Engineer 
-> ☁️ AWS, Kubernetes, Terraform, Argo CD, CI/CD, GitHub Actions  
+> 💻 Full-Stack Developer & Infrastructure Engineer  
+> ☁️ AWS, Kubernetes, Terraform, CI/CD, GitHub Actions, Argo CD  
 > ⚙️ I love building systems that are scalable, automated, and observable.
 
 ---
@@ -22,4 +22,5 @@
 
 ### 📫 Contact Me  
 - 💼 [Notion Portfolio](https://gratis-path-fb4.notion.site/47b890b855b74a48a739e197b25e7689?pvs=4)  
-- 📮 Email: hsj1024@gmail.com
+- 📮 Email: tjeudeud@gmail.com
+
