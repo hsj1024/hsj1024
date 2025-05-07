@@ -30,6 +30,9 @@
 
 ---
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjedeud)](https://solved.ac/tjeudeud)
+
 ### 📫 Contact Me  
 - 💼 [Notion Portfolio](https://gratis-path-fb4.notion.site/47b890b855b74a48a739e197b25e7689?pvs=4)  
 - 📮 Email: tjeudeud@gmail.com
