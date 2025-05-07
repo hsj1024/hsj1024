@@ -11,14 +11,14 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsj1024&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsj1024&show_icons=true&theme=holi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsj1024&layout=compact&theme=tokyonight)](https://github.com/hsj1024)
 
 ---
 
 ### 🏆 GitHub Trophies  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=hsj1024&theme=onedark&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=hsj1024&theme=dracula&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
