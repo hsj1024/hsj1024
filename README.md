@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=2193b0&text=Full-Stack%20%7C%20Cloud%20Engineer&desc=Aspiring%20DevOps%20Engineer%20%7C%20Ready%20to%20Build,%20Learn%20and%20Grow&fontColor=ffffff&fontSize=38&descAlign=50&descAlignY=70
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Full-Stack%20%7C%20Cloud%20Engineer&desc=Aspiring%20DevOps%20Engineer%20%7C%20Ready%20to%20Build,%20Learn%20and%20Grow&fontColor=ffffff&fontSize=38&descAlign=50&descAlignY=70
 )
 
 
