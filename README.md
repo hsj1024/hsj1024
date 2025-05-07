@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6f86d6,100:48c6ef&height=200&section=header&text=SeoJeong's%20GitHub&fontSize=38&fontAlignY=40&desc=DevOps%20Engineer%20|%20Cloud%20Infra%20Builder&descAlignY=60&descAlign=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Full-Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Engineer&fontSize=36&fontAlignY=40&desc=Aspiring%20DevOps%20Engineer%20%7C%20Ready%20to%20Build%2C%20Learn%2C%20and%20Grow&descAlignY=65&descAlign=50&fontColor=ffffff)
 
 ## 👋 Welcome!  
-> 🛠 DevOps & Infrastructure Engineer  
-> ☁️ AWS / Kubernetes / Terraform / GitHub Actions  
-> 🔁 Automating CI/CD pipelines, managing scalable cloud workloads
+> 💻 Full-Stack Developer & Infrastructure Engineer 
+> ☁️ AWS, Kubernetes, Terraform, Argo CD, CI/CD, GitHub Actions  
+> ⚙️ I love building systems that are scalable, automated, and observable.
 
 ---
 
